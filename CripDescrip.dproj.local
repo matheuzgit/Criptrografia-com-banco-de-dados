@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/16 19:55:41.000.714,=C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/16 21:49:21.000.488,C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\criptografia.pas</Transaction>
+    <Transaction>2020/06/16 21:49:21.000.488,C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\criptografia.dfm</Transaction>
+    <Transaction>2020/06/16 22:15:37.000.771,C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/06/17 21:25:48.704,D:\ProjetosPessoais\delphi\Criptografia\CripDescrip.dproj=C:\Users\mathe\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
